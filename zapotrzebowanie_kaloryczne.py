@@ -34,4 +34,3 @@ x=(10*float(masa))+(6.25*float(wzrost))-(5*int(wiek))+int(y)
 B=x*z
 print('Twoje zapotrzbowanie kaloryczne to:',B , "kcal")
 input("prompt: ")
-#działa zajebiście :D
